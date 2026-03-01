@@ -13,14 +13,6 @@ My core strengths are:
 - translating operational needs into product behavior
 - using AI-assisted workflows to accelerate creation and iteration
 
-## Core Expertise
-
-- **UI / Interface Design**
-- **Product & Feature Logic**
-- **Business Workflow Structuring**
-- **AI-assisted Development / Vibe Coding**
-- **Web Application Planning**
-
 ## Philosophy
 
 I value products that are:

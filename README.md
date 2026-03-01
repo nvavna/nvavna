@@ -1,16 +1,37 @@
-## Hi there 👋
+# Vladislav Novoshinskiy
 
-<!--
-**nvavna/nvavna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building modern web applications with a focus on performance, structure, and practical business value.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on web products using modern frontend and backend tools, with an emphasis on clean UI, maintainable code, and scalable architecture.
+
+## Stack
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Supabase, PostgreSQL
+- **Infrastructure:** Docker, GitHub
+- **Other:** REST APIs, UI systems, product-oriented development
+
+## Projects
+
+### 🔹 [ERP](https://github.com/nvavna/ERP)
+A TypeScript-based project focused on business workflow and system structure.
+
+### 🔹 [kiwi-app-front](https://github.com/smprod/kiwi-app-front)
+Frontend application built with TypeScript.
+
+## Current Focus
+
+- Building structured business systems
+- Improving architecture and code quality
+- Creating practical interfaces for real-world tasks
+
+## Contact
+
+- **GitHub:** [nvavna](https://github.com/nvavna)
+- **Email:** idevnva@icloud.com
+
+---
+
+_Thanks for visiting my profile._
